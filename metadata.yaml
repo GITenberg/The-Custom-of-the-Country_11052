@@ -1,0 +1,43 @@
+_repo: The-Custom-of-the-Country_11052
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: "The Custom of the Country is a 1913 novel by Edith Wharton. It tells\
+  \ the story of Undine Spragg, a Midwestern girl who attempts to ascend in New York\
+  \ City society.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11052'
+  wikidata: Q7728505
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Divorced women -- Fiction'
+- !lcsh 'Remarried people -- Fiction'
+- !lcsh 'Upper class -- Fiction'
+- !lcsh 'Satire'
+- GITenberg
+title: The Custom of the Country
+url: http://www.gutenberg.org/ebooks/11052
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%B9%D8%B1%D9%81_%D8%A7%D9%84%D8%B1%D9%8A%D9%81_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://en.wikipedia.org/wiki/The_Custom_of_the_Country
