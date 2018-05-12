@@ -1,5 +1,8 @@
 _repo: The-Custom-of-the-Country_11052
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -16,6 +19,8 @@ creator:
 description: "The Custom of the Country is a 1913 novel by Edith Wharton. It tells\
   \ the story of Undine Spragg, a Midwestern girl who attempts to ascend in New York\
   \ City society.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11052#The-Custom-of-the-Country
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
